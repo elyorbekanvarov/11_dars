@@ -71,6 +71,7 @@ header nav li a {
   gap: 250px;
   justify-content: center;
   margin-right: -30px;
+  margin-top: 50px;
 }
 form label,
 span {
